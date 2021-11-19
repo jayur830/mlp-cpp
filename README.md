@@ -1,1 +1,1 @@
-# NeuralNetwork
+# Neural Network (Multi Layer Perceptron)
